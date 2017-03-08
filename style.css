@@ -1,0 +1,37 @@
+body {
+background : #ff6600;
+font-family: 'Raleway', sans-serif;
+}
+h1 {
+font-size: 54px;
+
+}
+img {
+height: auto;
+width:475px ;
+}
+#title {
+background:blue; 
+width:450px;
+border-radius: 7px;
+padding-left: 5px;
+}
+
+#gamelink {
+width: 600px;
+	background:#ffff00;
+	padding-left: 10px;
+	padding-top: 10px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#Game{
+border-radius: 10px;
+background: red;
+padding-left: 40px;
+width: 475px;
+padding-right: 55px;
+padding-bottom: 30px;
+padding-top: 30px
+}
+
